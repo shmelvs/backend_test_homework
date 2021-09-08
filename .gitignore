@@ -144,3 +144,5 @@ dmypy.json
 .history/
 
 .mypy_cache
+
+# backend_test_homework
